@@ -47,4 +47,12 @@ Quais são as principais críticas à teoria de Taylor?
 
 ## Lições Aprendidas
 
-Durante o estudo foi possível compreender como a Administração Científica influenciou os modelos modernos de gestão e produtividade, além da importância de formular prompts claros para obter respostas mais precisas da IA.
+## Lições Aprendidas
+
+## Lições Aprendidas
+
+Durante a elaboração deste projeto foi possível compreender a importância dos estudos de tempos e movimentos para o desenvolvimento da Administração Científica.
+
+A pesquisa demonstrou como Frederick Taylor buscava aumentar a eficiência das organizações por meio da análise sistemática das tarefas executadas pelos trabalhadores.
+
+Além disso, o uso do NotebookLM permitiu explorar diferentes formas de formular perguntas, mostrando que a qualidade das respostas depende diretamente da clareza dos prompts utilizados e das fontes consultadas.
