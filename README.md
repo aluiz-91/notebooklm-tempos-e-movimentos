@@ -47,10 +47,6 @@ Quais são as principais críticas à teoria de Taylor?
 
 ## Lições Aprendidas
 
-## Lições Aprendidas
-
-## Lições Aprendidas
-
 Durante a elaboração deste projeto foi possível compreender a importância dos estudos de tempos e movimentos para o desenvolvimento da Administração Científica.
 
 A pesquisa demonstrou como Frederick Taylor buscava aumentar a eficiência das organizações por meio da análise sistemática das tarefas executadas pelos trabalhadores.
